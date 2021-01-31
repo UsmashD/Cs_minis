@@ -14,3 +14,6 @@ If the battery percentage fall under 15% the machine will be shutting down.
 Options: 
   - Timed shutting down,
   - Hibernate instead of shutting down
+
+## Disclaimer 
+Feel free to use the code, but only Use at Your Own Risk
