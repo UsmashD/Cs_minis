@@ -1,0 +1,8 @@
+{ 
+    "lowerPercent": 40,
+    "upperPercent": 80,
+    "isHibernateActive" : true,
+    "hibernateWarningPercent" : 15,
+    "hibernatePercent" : 10
+} 
+
