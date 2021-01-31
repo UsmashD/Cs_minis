@@ -7,6 +7,7 @@ If the battery percentage reach the setting threshold, the program send a notifi
   - Upper treshold: 80%
   - Lower trehshold: 40%
   - Hibernate treshold: 10%
+
 These settings can change in "settings.json"
 
 ## Sleeper
